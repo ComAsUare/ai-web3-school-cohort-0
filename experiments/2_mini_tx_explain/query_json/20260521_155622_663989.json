@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "tx_hash": "0x88df016429689c079f3b2f6ad39fa052532c56795b733da78a91ebe6a713944b",
+  "timestamp": "2026-05-21T15:56:22.661333",
+  "data": {
+    "data": {
+      "summaries": []
+    },
+    "success": true
+  }
+}
