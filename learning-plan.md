@@ -13,12 +13,12 @@
 ## Module 1: AI 基础
 
 **目标**: 从 LLM 到 Agent，建立 AI 核心概念体系。
-**当前进度**: 0/11
+**当前进度**: 2/11 (LLM ✅, Prompt ✅)
 
 | # | 章节 | Handbook 链接 | 状态 | 优先级 |
 |---|------|-------------|------|--------|
-| 1 | 大语言模型（LLM） | https://aiweb3.school/zh/handbook/ai/llm/ | ⬜ | 🔴 高 |
-| 2 | 提示词（Prompt） | https://aiweb3.school/zh/handbook/ai/prompt/ | ⬜ | 🔴 高 |
+| 1 | 大语言模型（LLM） | https://aiweb3.school/zh/handbook/ai/llm/ | ✅ | 🔴 高 |
+| 2 | 提示词（Prompt） | https://aiweb3.school/zh/handbook/ai/prompt/ | ✅ | 🔴 高 |
 | 3 | 上下文（Context） | https://aiweb3.school/zh/handbook/ai/context/ | ⬜ | 🟡 中 |
 | 4 | 检索增强生成（RAG） | https://aiweb3.school/zh/handbook/ai/rag/ | ⬜ | 🟡 中 |
 | 5 | 智能体（Agent） | https://aiweb3.school/zh/handbook/ai/agent/ | ⬜ | 🔴 高 |
@@ -116,12 +116,14 @@ Chain-aware Context → Web3 Tool Use → Agent Workflow → Agent Wallet（3-5 
 
 ---
 
-## 当前阶段: Module 1 — AI 基础
+## 当前阶段: Module 1 — AI 基础（LLM ✅ → Prompt ✅ → Agent 🔜）
 
 **本周目标（5/19 - 5/25）**:
-- [ ] 完成 LLM、Prompt、Agent 三章（最小路径）
-- [ ] 设置 Python AI 开发环境
-- [ ] 第一个 AI Agent 小实验
+- [x] 完成 LLM 章节 ✅
+- [x] 完成 Prompt 章节 ✅
+- [ ] 完成 Agent 章节 — 最小路径最后一步
+- [x] 设置 Python AI 开发环境 ✅
+- [x] 第一个 AI Agent 小实验 ✅ (交易解释器 + 风险摘要)
 - [ ] 每日打卡 + Handbook feedback
 
 ---
