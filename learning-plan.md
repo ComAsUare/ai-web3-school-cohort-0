@@ -124,7 +124,7 @@ Chain-aware Context → Web3 Tool Use → Agent Workflow → Agent Wallet（3-5 
 - [ ] 完成 Agent 章节 — 最小路径最后一步
 - [x] 设置 Python AI 开发环境 ✅
 - [x] 第一个 AI Agent 小实验 ✅ (交易解释器 + 风险摘要)
-- [ ] 每日打卡 + Handbook feedback
+- [x] 每日打卡 ✅ (5/21, 5/22 已提交) + [ ] Handbook feedback
 
 ---
 
