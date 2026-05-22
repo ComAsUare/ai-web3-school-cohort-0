@@ -23,6 +23,7 @@ This repository documents my learning journey in AI × Web3 School Cohort 0, com
 ├── experiments/             # Code experiments and projects
 ├── handbook-feedback/       # Feedback on handbook content
 ├── hackathon/              # Hackathon projects
+├── notes/                  # Reading notes by topic
 ├── submissions/            # Assignment submissions
 └── templates/              # Note templates
 ```
