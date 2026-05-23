@@ -13,18 +13,19 @@
 ## Module 1: AI 基础
 
 **目标**: 从 LLM 到 Agent，建立 AI 核心概念体系。
-**当前进度**: 2/11 (LLM ✅, Prompt ✅)
+**当前进度**: 7/11 已覆盖 (LLM ✅, Prompt ✅, Context/ RAG/ Agent/ Frameworks/ MCP 🔄 连接级)
+> 5/23 完成全模块连接分析 — Context 到 MCP 以「跃迁视角」串联，待逐章精读+编码
 
 | # | 章节 | Handbook 链接 | 状态 | 优先级 |
 |---|------|-------------|------|--------|
 | 1 | 大语言模型（LLM） | https://aiweb3.school/zh/handbook/ai/llm/ | ✅ | 🔴 高 |
 | 2 | 提示词（Prompt） | https://aiweb3.school/zh/handbook/ai/prompt/ | ✅ | 🔴 高 |
-| 3 | 上下文（Context） | https://aiweb3.school/zh/handbook/ai/context/ | ⬜ | 🟡 中 |
-| 4 | 检索增强生成（RAG） | https://aiweb3.school/zh/handbook/ai/rag/ | ⬜ | 🟡 中 |
-| 5 | 智能体（Agent） | https://aiweb3.school/zh/handbook/ai/agent/ | ⬜ | 🔴 高 |
-| 6 | 框架（Frameworks） | https://aiweb3.school/zh/handbook/ai/frameworks/ | ⬜ | 🟡 中 |
+| 3 | 上下文（Context） | https://aiweb3.school/zh/handbook/ai/context/ | 🔄 | 🟡 中 |
+| 4 | 检索增强生成（RAG） | https://aiweb3.school/zh/handbook/ai/rag/ | 🔄 | 🟡 中 |
+| 5 | 智能体（Agent） | https://aiweb3.school/zh/handbook/ai/agent/ | 🔄 | 🔴 高 |
+| 6 | 框架（Frameworks） | https://aiweb3.school/zh/handbook/ai/frameworks/ | 🔄 | 🟡 中 |
 | 7 | 氛围编程（Vibe Coding） | https://aiweb3.school/zh/handbook/ai/vibe-coding/ | ⬜ | 🟢 低 |
-| 8 | 模型上下文协议（MCP） | https://aiweb3.school/zh/handbook/ai/mcp/ | ⬜ | 🟡 中 |
+| 8 | 模型上下文协议（MCP） | https://aiweb3.school/zh/handbook/ai/mcp/ | 🔄 | 🟡 中 |
 | 9 | 评估（Evaluation） | https://aiweb3.school/zh/handbook/ai/evaluation/ | ⬜ | 🟢 低 |
 | 10 | 微调（Fine-tuning） | https://aiweb3.school/zh/handbook/ai/fine-tuning/ | ⬜ | 🟢 低 |
 | 11 | 推理服务（Inference） | https://aiweb3.school/zh/handbook/ai/inference/ | ⬜ | 🟢 低 |
@@ -116,15 +117,18 @@ Chain-aware Context → Web3 Tool Use → Agent Workflow → Agent Wallet（3-5 
 
 ---
 
-## 当前阶段: Module 1 — AI 基础（LLM ✅ → Prompt ✅ → Agent 🔜）
+## 当前阶段: Module 1 — AI 基础（连接分析完成 → 精读编码中）
 
 **本周目标（5/19 - 5/25）**:
 - [x] 完成 LLM 章节 ✅
 - [x] 完成 Prompt 章节 ✅
-- [ ] 完成 Agent 章节 — 最小路径最后一步
+- [x] Module 1 全章连接分析（LLM→Prompt→Context→RAG→Agent→MCP/Frameworks）✅
+- [ ] Context / RAG / Agent 章节精读 + 编码练习（从 5 组练习中落地 2~3 组）
 - [x] 设置 Python AI 开发环境 ✅
 - [x] 第一个 AI Agent 小实验 ✅ (交易解释器 + 风险摘要)
 - [x] 每日打卡 ✅ (5/21, 5/22 已提交) + [ ] Handbook feedback
+- [x] Handbook 四大模块逻辑关系全景分析 ✅ (5/23)
+- [ ] 启动 Module 2 Web3 基础（以「Agent 视角」重审 Wallet、Smart Contract）
 
 ---
 
@@ -158,5 +162,5 @@ Morning (~8:00-10:00)      Evening (~20:00-22:00)
 
 ---
 
-**Last Updated**: 2026-05-19
-**Current Module**: Module 1 — AI 基础（LLM → Prompt → Agent）
+**Last Updated**: 2026-05-23
+**Current Module**: Module 1 — AI 基础（连接分析完成，精读编码中）
