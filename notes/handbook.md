@@ -1,41 +1,42 @@
 # Handbook 总揽
 
-章节           主要关注问题                        笔记                   实践
-1.1LLM        大模型的概率生成内容与事实区分          
-1.2Prompt     结构化输入，并非真正安全边界
-1.3Context
-1.4RAG
-1.5Agent
-1.6Frameworks
-1.7Vibe Coding
-1.8MCP
-1.9Evaluation
-1.10Fine-tuning
-1.11Inference
-2.1Network
-2.2Cryptography
-2.3Wallet
-2.4Smart Contract
-2.5Account Abstraction
-2.6DeFi
-2.7Oracle
-2.8Indexing
-2.9Security
-3.1Chain-aware Context
-3.2Web3 Tool Use
-3.3Agent Workflow
-3.4Agent Wallet
-3.5Machine Payment
-3.6Settlement & Escrow
-3.7Agent Identity
-3.8Agent Trust & Reputation
-3.9Verifiable AI
-3.10AI Security
-3.11AI Privacy
-3.12Governance AI
-4.1Agentic Commerce
-4.2Wallet / Permission
-4.3AI Security
-4.4Governance
-4.5Dev Tooling
-4.6Open Track
+| 进度 | 章节 | 主要关注问题 | 笔记 | 实践 |
+|------|------|-------------|------|------|
+| ✅ | 1.1 LLM | 大模型的概率生成内容与事实区分 | notes/1.1llm.md | experiments/1_1_llm_test |
+| ✅ | 1.2 Prompt | 结构化输入，并非真正安全边界 | | |
+| 🔄 | 1.3 Context | | | |
+| 🔄 | 1.4 RAG | | | |
+| 🔄 | 1.5 Agent | | | |
+| 🔄 | 1.6 Frameworks | | | |
+| ⬜ | 1.7 Vibe Coding | | | |
+| 🔄 | 1.8 MCP | | | |
+| ⬜ | 1.9 Evaluation | | | |
+| ⬜ | 1.10 Fine-tuning | | | |
+| ⬜ | 1.11 Inference | | | |
+| ⬜ | 2.1 Network | | | |
+| ⬜ | 2.2 Cryptography | | | |
+| ⬜ | 2.3 Wallet | | | |
+| ⬜ | 2.4 Smart Contract | | | |
+| ⬜ | 2.5 Account Abstraction | | | |
+| ⬜ | 2.6 DeFi | | | |
+| ⬜ | 2.7 Oracle | | | |
+| ⬜ | 2.8 Indexing | | | |
+| ⬜ | 2.9 Security | | | |
+| ⬜ | 3.1 Chain-aware Context | | | |
+| ⬜ | 3.2 Web3 Tool Use | | | |
+| ⬜ | 3.3 Agent Workflow | | | |
+| ⬜ | 3.4 Agent Wallet | | | |
+| ⬜ | 3.5 Machine Payment | | | |
+| ⬜ | 3.6 Settlement & Escrow | | | |
+| ⬜ | 3.7 Agent Identity | | | |
+| ⬜ | 3.8 Agent Trust & Reputation | | | |
+| ⬜ | 3.9 Verifiable AI | | | |
+| ⬜ | 3.10 AI Security | | | |
+| ⬜ | 3.11 AI Privacy | | | |
+| ⬜ | 3.12 Governance AI | | | |
+| ⬜ | 4.1 Agentic Commerce | | | |
+| ⬜ | 4.2 Wallet / Permission | | | |
+| ⬜ | 4.3 AI Security | | | |
+| ⬜ | 4.4 Governance | | | |
+| ⬜ | 4.5 Dev Tooling | | | |
+| ⬜ | 4.6 Open Track | | | |
