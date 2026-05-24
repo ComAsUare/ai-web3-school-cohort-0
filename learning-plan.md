@@ -123,7 +123,7 @@ Chain-aware Context → Web3 Tool Use → Agent Workflow → Agent Wallet（3-5 
 - [x] 完成 LLM 章节 ✅
 - [x] 完成 Prompt 章节 ✅
 - [x] Module 1 全章连接分析（LLM→Prompt→Context→RAG→Agent→MCP/Frameworks）✅
-- [ ] Context / RAG / Agent 章节精读 + 编码练习（从 5 组练习中落地 2~3 组）
+- [ ] Context / RAG / Agent 章节精读 + 编码练习（今日：RAG 编码 + ReAct Agent 编码）
 - [x] 设置 Python AI 开发环境 ✅
 - [x] 第一个 AI Agent 小实验 ✅ (交易解释器 + 风险摘要)
 - [x] 每日打卡 ✅ (5/21, 5/22 已提交) + [ ] Handbook feedback
@@ -162,5 +162,5 @@ Morning (~8:00-10:00)      Evening (~20:00-22:00)
 
 ---
 
-**Last Updated**: 2026-05-23
-**Current Module**: Module 1 — AI 基础（连接分析完成，精读编码中）
+**Last Updated**: 2026-05-24
+**Current Module**: Module 1 — AI 基础（连接分析 ✅ → 编码落地中：RAG + ReAct Agent）
