@@ -1,0 +1,53 @@
+{
+  "transaction_hash": "0x795c3d4d83a769738c4be3378a7a77371e697e868fb97d175805232e6343230e",
+  "transaction_details": {
+    "blockHash": "0x0672212ee60b66f0c4cd38f066af75b6b8f811906bfa5d6c97c7615cbedd29b1",
+    "blockNumber": "0x17ff293",
+    "blockTimestamp": "0x6a126d03",
+    "from": "0x411a1569ed6db1a2cc5b6457df417a30aa75ba1d",
+    "gas": "0x7b0c",
+    "gasPrice": "0x5bccf96",
+    "maxFeePerGas": "0x6a7fe23",
+    "maxPriorityFeePerGas": "0x1c32c",
+    "hash": "0x795c3d4d83a769738c4be3378a7a77371e697e868fb97d175805232e6343230e",
+    "input": "0x",
+    "nonce": "0x2",
+    "to": "0x85b0b3b315f8daf19ad05abdfcf0b5e3788a5f19",
+    "transactionIndex": "0x29a",
+    "value": "0x1d5bba2346cc",
+    "type": "0x2",
+    "accessList": [],
+    "chainId": "0x1",
+    "v": "0x1",
+    "r": "0xc9c127f1ec2da692bcbdcd30b702a6ef8a557c12f849c5d9ab0f1251e3bc5af0",
+    "s": "0x4cb6945cf9501917fa4feca7b5af472c07cc8c4e9a458b2811dbc17c65153d24",
+    "yParity": "0x1"
+  },
+  "transaction_receipt": {
+    "blockHash": "0x0672212ee60b66f0c4cd38f066af75b6b8f811906bfa5d6c97c7615cbedd29b1",
+    "blockNumber": "0x17ff293",
+    "contractAddress": null,
+    "cumulativeGasUsed": "0x28755e5",
+    "effectiveGasPrice": "0x5bccf96",
+    "from": "0x411a1569ed6db1a2cc5b6457df417a30aa75ba1d",
+    "gasUsed": "0x5208",
+    "logs": [],
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "status": "0x1",
+    "to": "0x85b0b3b315f8daf19ad05abdfcf0b5e3788a5f19",
+    "transactionHash": "0x795c3d4d83a769738c4be3378a7a77371e697e868fb97d175805232e6343230e",
+    "transactionIndex": "0x29a",
+    "type": "0x2"
+  },
+  "summary": {
+    "from": "0x411a1569ed6db1a2cc5b6457df417a30aa75ba1d",
+    "to": "0x85b0b3b315f8daf19ad05abdfcf0b5e3788a5f19",
+    "value_eth": 3.22798021035e-05,
+    "gas_limit": 31500,
+    "gas_used": 21000,
+    "status": "Success",
+    "block_number": 25162387,
+    "event_logs_count": 0,
+    "contracts_involved": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "system_prompt": "You are a transaction expalanation assistant. read the transaction hash and explain it in simple terms::1）chain id, 和链的名字。2)用户发起了什么动作 ,3)涉及地址，4)资产名称和数量，5)gas数量，6)评估风险",
+  "user_input": "0x795c3d4d83a769738c4be3378a7a77371e697e868fb97d175805232e6343230e",
+  "llm_response": "I don't have live access to blockchain explorers, so I can't directly look up this transaction hash. To give you a proper explanation, I'd need the transaction details (chain, actions, addresses, assets, gas, etc.) from a block explorer like Etherscan, BscScan, PolygonScan, etc.\n\nIf you paste the transaction summary you see on the explorer, I can then explain it in plain language covering:\n- chain ID and name\n- what the user did\n- involved addresses\n- asset names and amounts\n- gas used\n- a simple risk assessment\n\nJust share the explorer output and I’ll take it from there!"
+}
