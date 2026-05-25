@@ -13,7 +13,7 @@
 ## Module 1: AI 基础
 
 **目标**: 从 LLM 到 Agent，建立 AI 核心概念体系。
-**当前进度**: 7/11 已覆盖 (LLM ✅, Prompt ✅, Context/ RAG/ Agent/ Frameworks/ MCP 🔄 连接级)
+**当前进度**: 7/11 已覆盖 (LLM ✅, Prompt ✅, Context/ RAG/ Agent/ Frameworks/ MCP ✅ 连接+编码级)
 > 5/23 完成全模块连接分析 — Context 到 MCP 以「跃迁视角」串联，待逐章精读+编码
 
 | # | 章节 | Handbook 链接 | 状态 | 优先级 |
@@ -46,14 +46,14 @@ LLM → Prompt → Context → RAG → Agent → Frameworks → MCP → Agent �
 ## Module 2: Web3 基础
 
 **目标**: 巩固 Web3 核心概念，重点深入与 Agent 相关的主题。
-**当前进度**: 0/9
+**当前进度**: 2/9 (Wallet 🔄 预览, Smart Contract 🔄 预览)
 
 | # | 章节 | Handbook 链接 | 状态 | 优先级 |
 |---|------|-------------|------|--------|
 | 1 | 网络（Network） | https://aiweb3.school/zh/handbook/web3/network/ | ⬜ | 🟢 回顾 |
 | 2 | 密码学（Cryptography） | https://aiweb3.school/zh/handbook/web3/cryptography/ | ⬜ | 🟢 回顾 |
-| 3 | 钱包（Wallet） | https://aiweb3.school/zh/handbook/web3/wallet/ | ⬜ | 🔴 高 |
-| 4 | 智能合约（Smart Contract） | https://aiweb3.school/zh/handbook/web3/smart-contract/ | ⬜ | 🔴 高 |
+| 3 | 钱包（Wallet） | https://aiweb3.school/zh/handbook/web3/wallet/ | 🔄 | 🔴 高 |
+| 4 | 智能合约（Smart Contract） | https://aiweb3.school/zh/handbook/web3/smart-contract/ | 🔄 | 🔴 高 |
 | 5 | 账户抽象（Account Abstraction） | https://aiweb3.school/zh/handbook/web3/account-abstraction/ | ⬜ | 🔴 高 |
 | 6 | DeFi | https://aiweb3.school/zh/handbook/web3/defi/ | ⬜ | 🟡 中 |
 | 7 | 预言机（Oracle） | https://aiweb3.school/zh/handbook/web3/oracle/ | ⬜ | 🟡 中 |
@@ -117,18 +117,26 @@ Chain-aware Context → Web3 Tool Use → Agent Workflow → Agent Wallet（3-5 
 
 ---
 
-## 当前阶段: Module 1 — AI 基础（连接分析完成 → 精读编码中）
+## 当前阶段: Week 1 完成 → Module 2 Web3 基础（Agent 视角）
 
-**本周目标（5/19 - 5/25）**:
+**Week 1 完成（5/19 - 5/25）**:
 - [x] 完成 LLM 章节 ✅
 - [x] 完成 Prompt 章节 ✅
 - [x] Module 1 全章连接分析（LLM→Prompt→Context→RAG→Agent→MCP/Frameworks）✅
-- [ ] Context / RAG / Agent 章节精读 + 编码练习（今日：RAG 编码 + ReAct Agent 编码）
+- [x] Context / RAG / Agent 编码练习 ✅ (5/25: RAG 检索 + ReAct Agent)
 - [x] 设置 Python AI 开发环境 ✅
-- [x] 第一个 AI Agent 小实验 ✅ (交易解释器 + 风险摘要)
-- [x] 每日打卡 ✅ (5/21, 5/22 已提交) + [ ] Handbook feedback
+- [x] AI Agent 实验 ✅ (交易解释器 + 风险摘要 + RAG + ReAct Agent)
+- [x] 每日打卡 ✅ (5/21, 5/22, 5/25 已提交)
 - [x] Handbook 四大模块逻辑关系全景分析 ✅ (5/23)
-- [ ] 启动 Module 2 Web3 基础（以「Agent 视角」重审 Wallet、Smart Contract）
+- [x] Module 2 Web3 基础启动 ✅ (5/25: Wallet + Smart Contract Agent 视角)
+
+**Week 2 目标（5/26 - 6/1）**:
+- [ ] Wallet 精读 + Agent 钱包原型
+- [ ] Smart Contract 精读 + calldata 构造实验
+- [ ] Account Abstraction (ERC-4337) + Agent 适用性分析
+- [ ] Web3 Security 速览 + Bridge: Chain-aware Context
+- [ ] Bridge: Web3 Tool Use + Agent Workflow
+- [ ] Week 2 复盘
 
 ---
 
@@ -162,5 +170,5 @@ Morning (~8:00-10:00)      Evening (~20:00-22:00)
 
 ---
 
-**Last Updated**: 2026-05-24
-**Current Module**: Module 1 — AI 基础（连接分析 ✅ → 编码落地中：RAG + ReAct Agent）
+**Last Updated**: 2026-05-25
+**Current Module**: Module 2 — Web3 基础（Agent 视角启动中）

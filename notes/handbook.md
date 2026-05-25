@@ -4,19 +4,19 @@
 |------|------|-------------|------|------|
 | ✅ | 1.1 LLM | 大模型的概率生成内容与事实区分 | notes/1.1llm.md | experiments/1_1_llm_test |
 | ✅ | 1.2 Prompt | 结构化输入，并非真正安全边界 | | |
-| 🔄 | 1.3 Context | | | |
-| 🔄 | 1.4 RAG | | | |
-| 🔄 | 1.5 Agent | | | |
-| 🔄 | 1.6 Frameworks | | | |
+| 🔄 | 1.3 Context | 上下文窗口与记忆管理 | | |
+| 🔄 | 1.4 RAG | 从静态到动态知识注入 | | |
+| 🔄 | 1.5 Agent | LLM 驱动多步推理循环 | | |
+| 🔄 | 1.6 Frameworks | 标准化 Agent 开发 | | |
 | ⬜ | 1.7 Vibe Coding | | | |
-| 🔄 | 1.8 MCP | | | |
+| 🔄 | 1.8 MCP | 统一工具调用协议 | | |
 | ⬜ | 1.9 Evaluation | | | |
 | ⬜ | 1.10 Fine-tuning | | | |
 | ⬜ | 1.11 Inference | | | |
 | ⬜ | 2.1 Network | | | |
 | ⬜ | 2.2 Cryptography | | | |
-| ⬜ | 2.3 Wallet | | | |
-| ⬜ | 2.4 Smart Contract | | | |
+| 🔄 | 2.3 Wallet | Agent 视角：编程化签名策略 | | |
+| 🔄 | 2.4 Smart Contract | Agent 调用合约六步流程 | | |
 | ⬜ | 2.5 Account Abstraction | | | |
 | ⬜ | 2.6 DeFi | | | |
 | ⬜ | 2.7 Oracle | | | |
