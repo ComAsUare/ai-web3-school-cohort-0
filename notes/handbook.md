@@ -1,11 +1,11 @@
 # Handbook 总揽
 
-| 进度 | 章节 | 主要关注问题 | 笔记 | 实践 |
+| 进度 | 章节 | 核心关注问题 | 笔记 | 实践 |
 |------|------|-------------|------|------|
 | ✅ | 1.1 LLM | 大模型的概率生成内容与事实区分 | notes/1.1llm.md | experiments/1_1_llm_test |
 | ✅ | 1.2 Prompt | 结构化输入，并非真正安全边界 |notes/1.2_prompt.md | experiments/1_2_tx_risk_summary|
 | ✅ | 1.3 Context | 信息来源治理：来源、时效、权限和可信度 | notes/1.3_context.md|experiments/1_3_context_spec |
-| 🔄 | 1.4 RAG | 从静态到动态知识注入 | | |
+| ✅ | 1.4 RAG | 拿到带来源、时效性、边界的资料数据 |notes/1.4_RAG.md |experiments/1_4_protocol_rag_QA |
 | 🔄 | 1.5 Agent | LLM 驱动多步推理循环 | | |
 | 🔄 | 1.6 Frameworks | 标准化 Agent 开发 | | |
 | ⬜ | 1.7 Vibe Coding | | | |
