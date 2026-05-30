@@ -1,0 +1,8 @@
+{
+  "DAO_name": "Compound",
+  "proposal_id": 289,
+  "proposal_address": "0x1234567890abcdef1234567890abcdef12345678",
+  "forum_url": "https://www.comp.xyz/t/compound-iii-usdc-on-arbitrum/5678",
+  "proposal_content": "# Proposal: Upgrade Compound Protocol to v3\n\n## Summary\nThis proposal aims to upgrade the Compound protocol to version 3, introducing new features including:\n- Multi-collateral support\n- Improved liquidation mechanisms\n- Gas optimization for transactions\n\n## Motivation\nThe current v2 protocol has served the community well, but market demands require enhanced functionality.\n\n## Specification\n- Deploy new Comptroller contract at: 0x1234567890abcdef1234567890abcdef12345678\n- Migrate existing markets to new architecture\n- Implement 7-day timelock for security\n\n## Voting Options\n- For: Approve the upgrade\n- Against: Reject the upgrade\n- Abstain: No preference\n",
+  "forum_discussion": "# Forum Discussion Summary\n\n**Original Post by @compound-dev**\nWe're excited to propose the v3 upgrade. This has been in development for 6 months.\n\n**Comment by @user123**\n+1 for this proposal. The gas optimizations alone will save users significant fees.\n\n**Comment by @security-expert**\nI've reviewed the audit reports. The code looks solid, but I recommend extending the timelock to 14 days for extra safety.\n\n**Comment by @whale-voter**\nSupporting this. The multi-collateral feature is crucial for protocol growth.\n\n**Total Comments:** 47\n**Sentiment:** 85% positive, 10% concerns about timeline, 5% neutral\n\nForum URL: https://www.comp.xyz/t/compound-iii-usdc-on-arbitrum/5678\n"
+}

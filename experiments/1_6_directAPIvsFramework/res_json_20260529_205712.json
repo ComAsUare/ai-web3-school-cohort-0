@@ -1,0 +1,20 @@
+{
+  "answer": "根据检索到的文档，关于清算逻辑的内容有限。文档提到了 Comet 合约的 targetReserves() 函数，该函数获取协议的目标准备金（Target Reserves），可能与清算相关，但未提供完整的清算逻辑说明。\n\n其他文档片段涉及 getUtilization()、baseBorrowMin()、withdrawFrom() 等函数，但均未直接描述清算过程。\n\n因此，无法从现有文档中提取 Comet 的清算逻辑。\n\n来源：\n- Compound III Docs | Liquidation (https://docs.compound.finance/liquidation/)\n- Compound.js Docs | Comet (https://docs.compound.finance/compound-js/comet/)",
+  "sources": [
+    {
+      "url": "https://docs.compound.finance/liquidation/",
+      "title": "Compound III Docs | Liquidation",
+      "relevance": "清算相关文档，但仅包含 targetReserves 调用"
+    },
+    {
+      "url": "https://docs.compound.finance/compound-js/comet/",
+      "title": "Compound.js Docs | Comet",
+      "relevance": "包含 targetReserves 描述，但未说明清算逻辑"
+    }
+  ],
+  "version": "v3",
+  "uncertainties": [
+    "Comet 合约的完整清算逻辑",
+    "清算触发条件、清算过程、清算处罚等细节"
+  ]
+}

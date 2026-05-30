@@ -1,0 +1,17 @@
+{
+  "answer": "在 Compound III 的 Comet 合约中，与清算（liquidation）相关的重要函数包括：\n\n- **absorb**：用于触发一个或多个水下账户的清算。调用时需要指定 `absorber`（接收清算积分的账户）和 `accounts`（一个或多个水下账户地址）。\n- **isLiquidatable**：检查指定地址的账户是否可以被清算，返回布尔值。\n\n此外，清算页面还涉及 `targetReserves` 的查询，可能与协议准备金目标相关，但并非直接的清算操作函数。\n\n来源：\n- Compound.js Docs | Comet (https://docs.compound.finance/compound-js/comet/)\n- Compound III Docs | Liquidation (https://docs.compound.finance/liquidation/)",
+  "sources": [
+    {
+      "url": "https://docs.compound.finance/compound-js/comet/",
+      "title": "Compound.js Docs | Comet",
+      "relevance": "提供了 absorb 和 isLiquidatable 函数的示例与说明"
+    },
+    {
+      "url": "https://docs.compound.finance/liquidation/",
+      "title": "Compound III Docs | Liquidation",
+      "relevance": "包含 targetReserves 相关代码片段，可作为清算参考"
+    }
+  ],
+  "version": "v3",
+  "uncertainties": []
+}

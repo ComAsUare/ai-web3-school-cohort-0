@@ -1,0 +1,19 @@
+{
+  "answer": "根据检索到的文档，Compound V3（Compound III）的清算流程未在提供的文档中详细说明。文档主要涉及Compound.js SDK中Comet合约的交互方法（如获取基础资产名称、供应、授权、购买等），以及V2的cToken赎回示例。建议查阅Compound III官方文档中关于清算的专门章节。",
+  "sources": [
+    {
+      "url": "https://docs.compound.finance/compound-js/comet/",
+      "title": "Compound.js Docs | Comet",
+      "relevance": "包含Comet合约的SDK方法，但未涉及清算流程"
+    },
+    {
+      "url": "https://docs.compound.finance/compound-js/ctokens/",
+      "title": "Compound.js Docs | cTokens (v2)",
+      "relevance": "V2的cToken赎回示例，与V3清算无关"
+    }
+  ],
+  "version": "v3",
+  "uncertainties": [
+    "Compound V3的具体清算流程（如清算条件、清算奖励、清算步骤等）"
+  ]
+}
