@@ -11,8 +11,8 @@
 | ⬜ | 1.7 Vibe Coding | | | |
 | 🔄 | 1.8 MCP | 统一工具调用协议 | | |
 | ⬜ | 1.9 Evaluation | | | |
-| ⬜ | 1.10 Fine-tuning | | | |
-| ⬜ | 1.11 Inference | | | |
+| ⬜ | 1.10 Fine-tuning | 特定任务微调参数 | | |
+| ⬜ | 1.11 Inference | 延迟、成本、上下文、稳定性和部署边界的综合选择 | | |
 | ⬜ | 2.1 Network | | | |
 | ⬜ | 2.2 Cryptography | | | |
 | 🔄 | 2.3 Wallet | Agent 视角：编程化签名策略 | | |
